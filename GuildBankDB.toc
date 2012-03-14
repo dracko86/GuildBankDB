@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: GuildBankDB
+## Notes: Stores Guild Bank information for remote use
+## Author: Dracko86
+## DefaultState: enabled/sampling
+## SavedVariables: GuildBankDB_Save
+## SavedVariablesPerCharacter: GuildBankDB_SaveChar
+GuildBankDB.xml
